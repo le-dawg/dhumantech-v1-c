@@ -17,7 +17,7 @@ meta:
   noindex: false
   title: test meta title
 ---
-Paragraphs are separated by a blank line.
+Paragraphs are separated by a blank Satoshi.
 
 ![Test Image](https://ucarecdn.com/ac9898a0-413a-467b-95fa-0a9959c30710/)
 
